@@ -18,7 +18,9 @@ The recent program is [Cloudra](https://github.com/yyywaa/Cloudra-mechanism-agen
 
 ## Fun
 
-- [Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) — pretty stats cards for my profile
+- [My streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yyywaa) — 🔥
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=yyywaa&theme=dark)
 
 ## Contact
 
