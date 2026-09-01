@@ -18,7 +18,7 @@ The recent program is [Cloudra](https://github.com/yyywaa/Cloudra-mechanism-agen
 
 ## Fun
 
-- [GitHub Roast](https://github-roast.pages.dev/) — roast my GitHub profile
+- [Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) — pretty stats cards for my profile
 
 ## Contact
 
