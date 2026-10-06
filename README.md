@@ -26,4 +26,4 @@ The recent program is [Cloudra](https://github.com/yyywaa/Cloudra-mechanism-agen
 
 - Email: [951899550@qq.com](mailto:951899550@qq.com)
 - GitHub: [@yyywaa](https://github.com/yyywaa)
-- [Shyake](https://github.com/salmonization/shyake): yyy2333@dragonake.cloudrayyy.dev — PQC E2EE mail
+- [Shyake](https://github.com/salmonization/shyake): yyywaa@dragonake.cloudrayyy.dev — PQC E2EE mail
